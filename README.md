@@ -8,7 +8,14 @@ I'm Swaathi (she/her), a graduate student specializing in Big Data and Data Scie
 
 👯 I’m looking to collaborate on interesting Data Science projects. I would also be grateful if I could find a Data Science Mentor. 
 
-📫 Reach me on: LinkedIn (https://www.linkedin.com/in/swaathi-sundaramurugan/), Medium (https://swaathi317.medium.com/), Email (swaathi317@gmail.com)
+
+
+📫 Reach me on: 
+
+- LinkedIn (https://www.linkedin.com/in/swaathi-sundaramurugan/)
+- Medium (https://swaathi317.medium.com/)
+- Email (swaathi317@gmail.com)
+
 
 
 #### My Technical skills:
