@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Swaathi (she/her), a graduate student specializing in Big Data and Data Science. 
+I'm Swaathi (she/her), a graduate student specializing in Data Science and Data Engineering. 
 
 🔭 Previously I was a Full Stack Developer and I love building applications from scratch. 
 
@@ -22,6 +22,6 @@ I'm Swaathi (she/her), a graduate student specializing in Big Data and Data Scie
 
 Languages: Python, JavaScript, JAVA, HTML, CSS
 
-Frameworks: Hadoop, Spark, React.js, Node.js, jQuery, SASS 
+Frameworks: Hadoop, Spark, React.js, Node.js, jQuery, SASS, Kafka
 
-Databases: MongoDB, Cassandra DB, MySQL, Redis
+Databases: MongoDB, Cassandra DB, MySQL
