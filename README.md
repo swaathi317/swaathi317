@@ -24,4 +24,4 @@ Languages: Python, JavaScript, JAVA, HTML, CSS
 
 Frameworks: Hadoop, Spark, React.js, Node.js, jQuery, SASS, Kafka
 
-Databases: MongoDB, Cassandra DB, MySQL
+Databases: MongoDB, Cassandra DB, MySQL, DynamoDB
