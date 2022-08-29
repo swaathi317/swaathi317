@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm Swaathi (she/her), a graduate student specializing in Data Science and Data Engineering. 
+I'm Swaathi (she/her), a graduate student specializing in Big Data. I'm also a Data Engineer Intern at Cittabase where I build Cloud Data Pipelines and BI Dashboards for Analytics.
 
 🔭 Previously I was a Full Stack Developer and I love building applications from scratch. 
 
-🌱 I'm currently learning about Data Analytics and Machine Learning. I'm also a part of of a learning challenge called #30DaysOfData (https://github.com/swaathi317/30DaysOfData).
-
-👯 I’m looking to collaborate on interesting Data Science projects. I would also be grateful if I could find a Data Science Mentor. 
+👯 I’m looking to collaborate on interesting Data Science/Engineering projects. 
 
 
 
@@ -20,8 +18,29 @@ I'm Swaathi (she/her), a graduate student specializing in Data Science and Data 
 
 #### My Technical skills:
 
-Languages: Python, JavaScript, JAVA, HTML, CSS
+Languages: Python, JavaScript, JAVA 
 
-Frameworks: Hadoop, Spark, React.js, Node.js, jQuery, SASS, Kafka
+Big Data Tools: Hadoop, Spark, Kafka
 
-Databases: MongoDB, Cassandra DB, MySQL, DynamoDB
+Databases: MongoDB, Cassandra DB, MySQL, Exasol
+
+Cloud Platforms: GCP (Dataflow [Apache Beam], BigQuery, Cloud Composer [Apache Airflow], Cloud Storage, DataPrep), AWS (Redshift, DynamoDB, S3, EMR)
+
+Visualization Tools: Tableau, Power BI
+
+Web Development: React.js, Node.js, jQuery, HTML, CSS
+
+
+
+#### Certifications 
+- Google Cloud Digital Leader (https://www.credential.net/7ceb86d4-87d8-4398-898d-3a9187063bbb)
+- Apache Cassandra 3 Developer Associate
+- Exasol Certified Associate
+
+
+#### Badges in GCP (https://partner.cloudskillsboost.google/public_profiles/e6cab9c6-e3cb-4a39-b8b5-4692df2bc9d8)
+- Engineer Data in Google Cloud
+- Perform Foundational Data, ML, and AI Tasks in Google Cloud
+- Create and Manage Cloud Resources
+- Google Cloud Essentials
+
