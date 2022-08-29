@@ -14,7 +14,7 @@ I'm Swaathi (she/her), a graduate student specializing in Big Data. I'm also a D
 - Medium (https://swaathi317.medium.com/)
 - Email (swaathi317@gmail.com)
 
-
+<hr>
 
 #### My Technical skills:
 
@@ -30,7 +30,7 @@ Visualization Tools: Tableau, Power BI
 
 Web Development: React.js, Node.js, jQuery, HTML, CSS
 
-
+<hr>
 
 #### Certifications 
 - Google Cloud Digital Leader (https://www.credential.net/7ceb86d4-87d8-4398-898d-3a9187063bbb)
