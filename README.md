@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm Swaathi (she/her), a graduate student specializing in Big Data. I'm also a Data Engineer Intern at Cittabase where I build Cloud Data Pipelines and BI Dashboards for Analytics.
-
-🔭 Previously I was a Full Stack Developer and I love building applications from scratch. 
-
-👯 I’m looking to collaborate on interesting Data Science/Engineering projects. 
+I'm Swaathi (she/her), a graduate student specializing in Big Data. I have experience in Full-Stack Development and Data Engineering. As a flexible technologist, I bring a special viewpoint to developing end-to-end solutions for challenging issues. I have a background in software engineering and a strong grasp of creating web applications with modern frameworks like React and Node.js. Additionally, I have experience designing and constructing cloud data pipelines, which convert raw data into actionable insights by integrating diverse data sources and formats. I have a lot of experience creating and optimizing schemas for both SQL and NoSQL databases. I have also worked with data warehousing tools like Amazon Redshift and Google BigQuery. I thrive as a committed problem solver when I can connect business and technology to produce significant results.
 
 
 
