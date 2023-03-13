@@ -9,7 +9,7 @@ I'm Swaathi (she/her), a graduate student specializing in Big Data. I build data
 - LinkedIn (https://www.linkedin.com/in/swaathi-sundaramurugan/)
 - Medium (https://swaathi317.medium.com/)
 - Email (swaathi317@gmail.com)
-- Website (https://thebigdata.dev)
+- Website (https://www.thebigdata.dev/)
 
 <hr>
 
